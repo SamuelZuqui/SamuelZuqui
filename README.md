@@ -24,9 +24,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <br>
   <a href="https://www.instagram.com/samuelzuquij" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&hide_border=true&card_width=250&title_color=CD8D00&text_color=a9b1d6&bg_color=1a1b27" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&hide_border=true&card_width=250&title_color=CD8D00&text_color=a9b1d6&bg_color=1a1b27&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas" />
 </div>
