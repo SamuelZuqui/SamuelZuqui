@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=true&fontSize=70&fontColor=CD8D00&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&desc=Ol%C3%A1,%20eu%20sou%20o%20Samuel!&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=true&fontSize=70&fontColor=CD8D00&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&desc=Ol%C3%A1,%20eu%20sou%20o%20Samuel!&descSize=30&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -17,15 +17,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="31" alt="css logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="31" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="31" alt="mysql logo"  />
 </div>
 
 ###
@@ -36,10 +36,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="70" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="79" height="57" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/samuelzuquij" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="92" height="70" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="79" height="57" alt="instagram logo"  />
   </a>
 </div>
 
