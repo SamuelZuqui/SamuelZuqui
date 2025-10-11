@@ -16,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
@@ -34,17 +34,17 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="79" height="57" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/samuelzuquij" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="79" height="57" alt="instagram logo"  />
-  </a>
-</div>
+<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 ###
 
-<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="47" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/samuelzuquij" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="47" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
