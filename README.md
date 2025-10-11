@@ -28,5 +28,5 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&theme=dracula&hide_border=true&card_width=250" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&hide_border=true&card_width=250&title_color=CD8D00&text_color=a9b1d6&bg_color=1a1b27" alt="Linguagens mais usadas" />
 </div>
