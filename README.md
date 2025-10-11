@@ -10,8 +10,6 @@
 - **Desenvolvimento Web:** Construindo minhas primeiras interfaces e projetos interativos com HTML5, CSS3 e JavaScript.
 - **Banco de Dados:** Aprendendo a modelar e consultar informações com MySQL.
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo" />
@@ -22,7 +20,7 @@
 
 <h2 align="left">📫 Como me encontrar</h2>
 
-<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
