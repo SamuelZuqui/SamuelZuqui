@@ -20,12 +20,14 @@
 
 <h2 align="left">📫 Como me encontrar</h2>
 
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
 <div align="left">
+  <a href="https://www.instagram.com/samuelzuquij" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <br>
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <br>
-  <a href="https://www.instagram.com/samuelzuquij" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:samuelzuquij@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   
   <br><br>
 
