@@ -26,3 +26,11 @@
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/samuelzuquij" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
+
+<br><br><br> <h2 align="left">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelZuqui&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub de Samuel" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Samuel" />
+</div>
