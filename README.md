@@ -36,10 +36,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-zuqui-junior-a86742350" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="74" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="70" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/samuelzuquij" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="74" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="92" height="70" alt="instagram logo"  />
   </a>
 </div>
 
