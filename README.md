@@ -20,8 +20,6 @@
 
 <h2 align="left">📫 Como me encontrar</h2>
 
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVnZWkwMzR5Y2g0OTIwcDZ3NWplOWhoODRvOTFydTNvZHZwZ3B5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
-
 <div align="left">
   <a href="https://www.instagram.com/samuelzuquij" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <br>
