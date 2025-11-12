@@ -29,4 +29,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="31" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/samuelzuquij" target="_blank">
-    <img src="https://
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="31" alt="Instagram"/>
+  </a>
+</div>
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelZuqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
+</div>
