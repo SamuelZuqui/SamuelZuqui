@@ -35,13 +35,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  </a>
-  <img width="15" />
-  <a href="https://www.instagram.com/seu-usuario-instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
 </div>
 
 ###
@@ -49,3 +45,5 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelZuqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
+
+###
