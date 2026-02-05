@@ -35,15 +35,7 @@
 <h2 align="left">🌐 Conecte-se comigo</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" />
-  </a>
-  <a href="mailto:samuelzuquij@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" />
-  </a>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a><a href="https://www.instagram.com/cl.samuelz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" /></a><a href="mailto:samuelzuquij@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" /></a>
 </p>
 
 ###
