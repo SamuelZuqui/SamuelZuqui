@@ -40,13 +40,3 @@
 </div>
 
 ###
-
-<h2 align="left">📊 Estatísticas</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelZuqui&layout=compact&langs_count=7&theme=dracula&hide_border=false" alt="Top Langs" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelZuqui&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
-</div>
