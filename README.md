@@ -36,15 +36,14 @@ Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 ## 📈 Status Atual
 - 🔭 Atualmente trabalhando com: **Automação web e integração de sistemas.**
 - 🌱 Aprofundando estudos em: **Arquitetura de software e desenvolvimento backend.**
-- 💬 Me pergunte sobre: **Como desenvolvo soluções para otimizar rotinas operacionais!**
 
 ## 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:samuelzuquij@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
