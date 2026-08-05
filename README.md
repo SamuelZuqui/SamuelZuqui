@@ -8,15 +8,14 @@ Além do código, invisto fortemente no aprendizado do idioma inglês, com o obj
 
 ## 🛠️ O que eu faço na prática?
 
-Em vez de apenas estudar a teoria, gosto de aplicar a tecnologia no mundo real. Minhas experiências recentes incluem:
+Em vez de apenas focar na teoria, busco aplicar a tecnologia para resolver problemas reais. Minhas experiências incluem:
 
-* **Desenvolvimento de Sistemas de Gestão:** Criação de aplicações desktop (como sistemas em C# e Windows Forms) para o varejo, incluindo controle de vendas e integração de verificação de pagamentos via PIX.
-* **Automação e Manutenção Web:** Atuação direta como estagiário criando scripts de automação, dando suporte a sites e otimizando processos internos com PHP e JavaScript.
-* **Arquitetura e Banco de Dados:** Modelagem de dados e consultas utilizando SQL/MySQL para garantir integridade e performance nas aplicações.
+* **Desenvolvimento de Software:** Criação de sistemas e aplicações focados em otimizar rotinas operacionais, automatizar processos e facilitar a gestão de negócios.
+* **Automação e Manutenção Web:** Experiência prática prestando suporte a aplicações web, desenvolvendo scripts para automação de tarefas rotineiras e atuando na melhoria contínua de processos internos.
 
 ## 💻 Minha Stack Principal
 
-Aqui estão as tecnologias com as quais trabalho e estudo diaramente:
+Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 
 ### Backend & Ferramentas
 <p align="left">
@@ -37,7 +36,7 @@ Aqui estão as tecnologias com as quais trabalho e estudo diaramente:
 ## 📈 Status Atual
 - 🔭 Atualmente trabalhando com: **Automação web e integração de sistemas.**
 - 🌱 Aprofundando estudos em: **Arquitetura de software e desenvolvimento backend.**
-- 💬 Me pergunte sobre: **Como integrei verificação de PIX em um sistema de controle de vendas!**
+- 💬 Me pergunte sobre: **Como desenvolvo soluções para otimizar rotinas operacionais!**
 
 ## 📫 Conecte-se comigo
 
