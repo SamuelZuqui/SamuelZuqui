@@ -1,4 +1,4 @@
-# Olá, eu sou o Samuel! 🚀
+# 👤 Olá, eu sou o Samuel!
 
 **Estudante de Ciência da Computação | Estagiário de TI**
 
