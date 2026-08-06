@@ -47,11 +47,6 @@ Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 - 🔭 Atualmente trabalhando com: **Automação web e integração de sistemas.**
 - 🌱 Aprofundando estudos em: **Arquitetura de software e desenvolvimento backend.**
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelzuquij&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzuquij&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
 ## 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelzuquij/)
