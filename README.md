@@ -1,7 +1,3 @@
-<div align="right">
-  🇧🇷 Português | <a href="#english-version">🇺🇸 English</a>
-</div>
-
 # 👤 Olá, eu sou o Samuel!
 
 **Estudante de Ciência da Computação | Estagiário de TI**
@@ -14,13 +10,9 @@ Além do código, invisto fortemente no aprendizado do idioma inglês, com o obj
 
 ## 🚀 Projetos em Destaque
 
-*   [**Sistema de Gestão de Vendas (C#)**](#) - *[Insira o link do repositório no #]*
-    Sistema desktop desenvolvido com Windows Forms para otimizar o fluxo de caixa, controle de estoque e verificação de pagamentos via PIX.
-*   [**Automação e Suporte Web (PHP/JS)**](#) - *[Insira o link do repositório no #]*
-    Scripts desenvolvidos para automação de tarefas operacionais, manutenção de sistemas e melhoria contínua de processos internos de negócios.
-*   [**Nome do seu terceiro projeto**](#) - *[Insira o link do repositório no #]*
-    *Breve descrição do problema que este projeto resolve e as tecnologias utilizadas.*
-
+*   
+* 
+* 
 ---
 
 ## 🛠️ O que eu faço na prática?
