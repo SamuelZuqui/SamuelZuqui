@@ -53,7 +53,6 @@ Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelzuquij/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelzuquij@gmail.com)
 
-<br>
 <hr>
 
 <a name="english-version"></a>
