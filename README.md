@@ -73,18 +73,13 @@ Beyond coding, I'm strongly invested in learning English, aiming to expand my ho
 
 ## 🚀 Featured Projects
 
-*   [**Sales Management System (C#)**](#) - *[Insert repo link in #]*
-    Desktop application built with Windows Forms to optimize cash flow, inventory control, and PIX payment verification.
-*   [**Web Automation & Support (PHP/JS)**](#) - *[Insert repo link in #]*
-    Custom scripts developed for operational task automation, system maintenance, and continuous improvement of internal business processes.
-*   [**Your Third Project Name**](#) - *[Insert repo link in #]*
-    *Brief description of the problem this project solves and the technologies used.*
+*
+*
+*
 
 ---
 
 ## 🛠️ What do I do in practice?
-
-Instead of just focusing on theory, I strive to apply technology to solve real-world problems. My experience includes:
 
 *   **Software Development:** Creating systems and applications focused on optimizing operational routines, automating processes, and facilitating business management.
 *   **Web Automation & Maintenance:** Practical experience providing support for web applications, developing scripts to automate routine tasks, and continuously improving internal processes.
