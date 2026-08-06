@@ -17,8 +17,6 @@ Além do código, invisto fortemente no aprendizado do idioma inglês, com o obj
 
 ## 🛠️ O que eu faço na prática?
 
-Em vez de apenas focar na teoria, busco aplicar a tecnologia para resolver problemas reais. Minhas experiências incluem:
-
 *   **Desenvolvimento de Software:** Criação de sistemas e aplicações focados em otimizar rotinas operacionais, automatizar processos e facilitar a gestão de negócios.
 *   **Automação e Manutenção Web:** Experiência prática prestando suporte a aplicações web, desenvolvendo scripts para automação de tarefas rotineiras e atuando na melhoria contínua de processos internos.
 
