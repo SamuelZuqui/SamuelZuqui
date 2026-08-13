@@ -60,7 +60,7 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Ferramentas de Desenvolvimento
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
@@ -72,6 +72,18 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
 </p>
 
+### 🤖 Ferramentas de IA
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/claude" width="60" alt="Claude"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="60" alt="Gemini"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai" width="60" alt="ChatGPT"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/antigravity" width="60" alt="Antigravity"/>
+</p>
+
 ---
 
 ## 💼 O que eu faço na prática?
@@ -81,6 +93,7 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 * 💻 **Desenvolvimento Backend** — Criação de aplicações e serviços focados em desempenho e organização.
 * 🌐 **Desenvolvimento Web** — Construção e manutenção de aplicações web.
 * 🛠️ **Suporte de TI** — Análise, manutenção e melhoria contínua de sistemas internos.
+* 🧠 **Desenvolvimento com IA** — Utilização de ferramentas de inteligência artificial para auxiliar no desenvolvimento, automação e resolução de problemas.
 
 ---
 
@@ -88,40 +101,24 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 * 🔭 **Trabalhando com:** Automação web e integração de sistemas.
 * 🌱 **Estudando:** Arquitetura de Software, APIs e Backend.
+* 🤖 **Explorando:** Inteligência Artificial aplicada ao desenvolvimento de software.
 * 🎯 **Objetivo:** Construir soluções escaláveis e atuar em projetos internacionais de tecnologia.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelzuquij&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzuquij&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
 ## 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
   </a>
-  &nbsp;
-  <a href="mailto:samuelzuquij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
   </a>
 </p>
 
@@ -132,11 +129,19 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ## 👋 Hello, I'm Samuel!
 
-### 💻 Computer Science Student | IT Intern
+<h3 align="center">💻 Computer Science Student | 👨‍💻 IT Intern</h3>
+
+<p align="center">
+  Developer passionate about automation, system integration and building solutions that solve real-world problems.
+</p>
+
+---
+
+## 🚀 About Me
 
 I'm a **Computer Science student at Universidade Vila Velha (UVV)** and currently work in **Information Technology**, focusing on **web automation, APIs and system integration**.
 
-I enjoy building practical solutions that automate business processes and solve real-world problems through technology.
+I enjoy transforming manual processes into intelligent solutions, combining academic knowledge with real-world professional experience. I'm currently deepening my knowledge in **software architecture**, **backend development** and **programming best practices**.
 
 ---
 
@@ -144,7 +149,7 @@ I enjoy building practical solutions that automate business processes and solve 
 
 ### 🤖 API Automation & Integration
 
-Building automation solutions that connect different systems through **REST APIs**, reducing repetitive tasks and improving business processes.
+Building automation solutions that connect different systems through **REST APIs**, reducing repetitive tasks and making business processes faster and more reliable.
 
 **Technologies:** `Python` `JavaScript` `REST API` `JSON`
 
@@ -152,19 +157,72 @@ Building automation solutions that connect different systems through **REST APIs
 
 ### ⚙️ Web Process Automation
 
-Developing scripts and solutions to automate repetitive tasks in web applications, optimize workflows and increase operational productivity.
+Developing scripts and solutions to automate web routines, reduce manual tasks, optimize workflows and increase productivity.
 
 **Technologies:** `Python` `JavaScript` `Web Automation`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Languages:** C#, C, Python, PHP, JavaScript
+### 👨‍💻 Programming Languages
 
-**Web:** HTML5, CSS3, MySQL
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+</p>
 
-**Tools:** Git, GitHub, VS Code, Figma
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+</p>
+
+### 🔧 Development Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
+</p>
+
+### 🤖 AI Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/claude" width="60" alt="Claude"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="60" alt="Gemini"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai" width="60" alt="ChatGPT"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/antigravity" width="60" alt="Antigravity"/>
+</p>
+
+---
+
+## 💼 What I Do
+
+* 🤖 **Process Automation** — Developing scripts to eliminate repetitive tasks.
+* 🔗 **System Integration** — Connecting platforms through REST APIs.
+* 💻 **Backend Development** — Building applications and services focused on performance and organization.
+* 🌐 **Web Development** — Building and maintaining web applications.
+* 🛠️ **IT Support** — Troubleshooting and continuously improving internal systems.
+* 🧠 **AI-Assisted Development** — Using artificial intelligence tools to assist with development, automation and problem solving.
 
 ---
 
@@ -172,6 +230,7 @@ Developing scripts and solutions to automate repetitive tasks in web application
 
 * 🔭 **Working with:** Web automation and system integration.
 * 🌱 **Studying:** Software Architecture, APIs and Backend Development.
+* 🤖 **Exploring:** Artificial Intelligence applied to software development.
 * 🎯 **Goal:** Build scalable solutions and pursue international opportunities in technology.
 
 ---
@@ -179,16 +238,16 @@ Developing scripts and solutions to automate repetitive tasks in web application
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
   </a>
-  &nbsp;
-  <a href="mailto:samuelzuquij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
   </a>
 </p>
 
