@@ -94,19 +94,17 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ## 📫 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
+<div data-importer="socials" align="left">
+  <a href="mailto:samuelzuquij@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
+  <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="45" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
 ---
 
@@ -209,19 +207,17 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 
 ## 📫 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
+<div data-importer="socials" align="left">
+  <a href="mailto:samuelzuquij@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
+  <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="45" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
 </details>
 
