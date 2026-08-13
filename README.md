@@ -94,19 +94,17 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ## 📫 Conecte-se comigo
 
-<p align="left">
+<div data-importer="socials" align="left">
   <a href="mailto:samuelzuquij@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" height="60" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="45" alt="instagram logo" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -209,19 +207,17 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 
 ## 📫 Connect with me
 
-<p align="left">
+<div data-importer="socials" align="left">
   <a href="mailto:samuelzuquij@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="45" alt="linkedin logo" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" height="60" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="45" alt="instagram logo" />
   </a>
-</p>
+</div>
 
 </details>
 
