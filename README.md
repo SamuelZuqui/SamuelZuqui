@@ -8,7 +8,7 @@
 
 ---
 
-## 👤 Sobre mim
+## 🚀 Sobre mim
 
 Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, APIs e integração de sistemas**.
 
@@ -94,19 +94,17 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ## 📫 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
+<div data-importer="socials" align="left">
+  <a href="mailto:samuelzuquij@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
+  <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -123,7 +121,7 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ---
 
-## 👤 About Me
+## 🚀 About Me
 
 I'm a **Computer Science student at Universidade Vila Velha (UVV)** and currently work in **Information Technology**, focusing on **web automation, APIs and system integration**.
 
@@ -209,19 +207,17 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 
 ## 📫 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
+<div data-importer="socials" align="left">
+  <a href="mailto:samuelzuquij@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/samuelzuquij/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" border="0"/>
+  <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samuelzuquij@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
+  <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-</p>
+</div>
 
 </details>
 
