@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👤 Sobre mim
 
 Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, APIs e integração de sistemas**.
 
@@ -72,18 +72,6 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
 </p>
 
-### 🤖 Ferramentas de IA
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/claude" width="60" alt="Claude"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini" width="60" alt="Gemini"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai" width="60" alt="ChatGPT"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/antigravity" width="60" alt="Antigravity"/>
-</p>
-
 ---
 
 ## 💼 O que eu faço na prática?
@@ -93,7 +81,6 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 * 💻 **Desenvolvimento Backend** — Criação de aplicações e serviços focados em desempenho e organização.
 * 🌐 **Desenvolvimento Web** — Construção e manutenção de aplicações web.
 * 🛠️ **Suporte de TI** — Análise, manutenção e melhoria contínua de sistemas internos.
-* 🧠 **Desenvolvimento com IA** — Utilização de ferramentas de inteligência artificial para auxiliar no desenvolvimento, automação e resolução de problemas.
 
 ---
 
@@ -101,7 +88,6 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 * 🔭 **Trabalhando com:** Automação web e integração de sistemas.
 * 🌱 **Estudando:** Arquitetura de Software, APIs e Backend.
-* 🤖 **Explorando:** Inteligência Artificial aplicada ao desenvolvimento de software.
 * 🎯 **Objetivo:** Construir soluções escaláveis e atuar em projetos internacionais de tecnologia.
 
 ---
@@ -137,7 +123,7 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 I'm a **Computer Science student at Universidade Vila Velha (UVV)** and currently work in **Information Technology**, focusing on **web automation, APIs and system integration**.
 
@@ -201,18 +187,6 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
 </p>
 
-### 🤖 AI Tools
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/claude" width="60" alt="Claude"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini" width="60" alt="Gemini"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai" width="60" alt="ChatGPT"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/antigravity" width="60" alt="Antigravity"/>
-</p>
-
 ---
 
 ## 💼 What I Do
@@ -222,7 +196,6 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 * 💻 **Backend Development** — Building applications and services focused on performance and organization.
 * 🌐 **Web Development** — Building and maintaining web applications.
 * 🛠️ **IT Support** — Troubleshooting and continuously improving internal systems.
-* 🧠 **AI-Assisted Development** — Using artificial intelligence tools to assist with development, automation and problem solving.
 
 ---
 
@@ -230,7 +203,6 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 
 * 🔭 **Working with:** Web automation and system integration.
 * 🌱 **Studying:** Software Architecture, APIs and Backend Development.
-* 🤖 **Exploring:** Artificial Intelligence applied to software development.
 * 🎯 **Goal:** Build scalable solutions and pursue international opportunities in technology.
 
 ---
