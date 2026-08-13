@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👤 Sobre mim
 
 Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, APIs e integração de sistemas**.
 
@@ -123,7 +123,7 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 I'm a **Computer Science student at Universidade Vila Velha (UVV)** and currently work in **Information Technology**, focusing on **web automation, APIs and system integration**.
 
