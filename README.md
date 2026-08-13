@@ -1,38 +1,36 @@
 # 👋 Olá, eu sou o Samuel!
 
-### 💻 Estudante de Ciência da Computação | 👨‍💻 Estagiário de TI
+<h3 align="center">💻 Estudante de Ciência da Computação | 👨‍💻 Estagiário de TI</h3>
 
-Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, suporte e integração de sistemas**.
+<p align="center">
+  Desenvolvedor apaixonado por automação, integração de sistemas e soluções que resolvem problemas reais.
+</p>
 
-Gosto de transformar problemas do dia a dia em **soluções práticas, automatizadas e eficientes**, unindo conhecimento acadêmico com experiência profissional.
+---
 
-Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento backend, arquitetura de software e integração de sistemas**, enquanto continuo evoluindo meu inglês com o objetivo de buscar novas oportunidades e experiências internacionais.
+## 🚀 Sobre mim
+
+Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, APIs e integração de sistemas**.
+
+Gosto de transformar processos manuais em soluções inteligentes, unindo conhecimento acadêmico com experiência prática no mercado. Atualmente, aprofundo meus estudos em **arquitetura de software**, **desenvolvimento backend** e **boas práticas de programação**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 📦 Sistema de Gestão de Estoque
+### 🤖 Automação e Integração com APIs
 
-Sistema web desenvolvido para facilitar o controle de **produtos, clientes, fornecedores e vendas**, com dashboard para acompanhamento das informações do negócio.
+Desenvolvimento de automações que conectam diferentes sistemas através de **APIs REST**, eliminando tarefas repetitivas e tornando processos empresariais mais rápidos e confiáveis.
 
-**Tecnologias:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
+**Tecnologias:** `Python` `JavaScript` `REST API` `JSON`
 
 ---
 
-### 🤖 Automação de Processos Web
+### ⚙️ Automação de Processos Web
 
-Desenvolvimento de scripts e automações para reduzir tarefas repetitivas, melhorar processos internos e aumentar a produtividade.
+Criação de scripts e soluções para automatizar rotinas em aplicações web, reduzir tarefas manuais, otimizar fluxos operacionais e aumentar a produtividade.
 
 **Tecnologias:** `Python` `JavaScript` `Web Automation`
-
----
-
-### 🎨 Projetos de UI/UX
-
-Criação de interfaces e protótipos de sistemas utilizando princípios de **UX/UI Design**, buscando melhorar a experiência do usuário e a organização das informações.
-
-**Ferramenta:** `Figma`
 
 ---
 
@@ -41,228 +39,156 @@ Criação de interfaces e protótipos de sistemas utilizando princípios de **UX
 ### 👨‍💻 Linguagens de Programação
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
 </p>
 
 ### 🔧 Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
 </p>
 
 ---
 
-## 🧠 O que eu faço na prática?
+## 💼 O que eu faço na prática?
 
-* 💻 **Desenvolvimento de Software** — Criação de sistemas e aplicações voltados para resolver problemas reais de negócios.
-* 🤖 **Automação** — Desenvolvimento de scripts e soluções para automatizar tarefas repetitivas.
-* 🌐 **Desenvolvimento Web** — Criação e manutenção de aplicações web.
-* 🔗 **Integração de Sistemas** — Desenvolvimento de soluções para conectar diferentes sistemas e processos.
-* 🛠️ **Suporte de TI** — Análise, manutenção e resolução de problemas relacionados a aplicações e processos tecnológicos.
-* 🎨 **UI/UX** — Criação de interfaces e protótipos utilizando Figma.
+* 🤖 **Automação de Processos** — Desenvolvimento de scripts para eliminar tarefas repetitivas.
+* 🔗 **Integração de Sistemas** — Comunicação entre plataformas utilizando APIs REST.
+* 💻 **Desenvolvimento Backend** — Criação de aplicações e serviços focados em desempenho e organização.
+* 🌐 **Desenvolvimento Web** — Construção e manutenção de aplicações web.
+* 🛠️ **Suporte de TI** — Análise, manutenção e melhoria contínua de sistemas internos.
 
 ---
 
 ## 📈 Atualmente
 
-🔭 **Trabalhando com:**
-Automação web, suporte e integração de sistemas.
-
-🌱 **Estudando:**
-Arquitetura de software, desenvolvimento backend e boas práticas de programação.
-
-🎓 **Graduação:**
-Ciência da Computação — Universidade Vila Velha (UVV).
-
-🌎 **Objetivo:**
-Continuar evoluindo profissionalmente e me preparar para oportunidades internacionais na área de tecnologia.
+* 🔭 **Trabalhando com:** Automação web e integração de sistemas.
+* 🌱 **Estudando:** Arquitetura de Software, APIs e Backend.
+* 🎯 **Objetivo:** Construir soluções escaláveis e atuar em projetos internacionais de tecnologia.
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelzuquij&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzuquij&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelzuquij&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzuquij&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🐍 Minhas contribuições
+## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelzuquij/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/samuelzuquij/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:samuelzuquij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<a name="english-version"></a>
-
 <details>
-<summary>🇺🇸 <b>Click here to view the English version</b></summary>
+<summary><b>🇺🇸 English Version</b></summary>
 
-<br>
+## 👋 Hello, I'm Samuel!
 
-# 👋 Hello, I'm Samuel!
+### 💻 Computer Science Student | IT Intern
 
-### 💻 Computer Science Student | 👨‍💻 IT Intern
+I'm a **Computer Science student at Universidade Vila Velha (UVV)** and currently work in **Information Technology**, focusing on **web automation, APIs and system integration**.
 
-I'm a **Computer Science student at Universidade Vila Velha (UVV)** currently working in **Information Technology**, focusing on **web automation, technical support, and system integration**.
-
-I enjoy transforming everyday problems into **practical, automated, and efficient solutions**, combining academic knowledge with real-world professional experience.
-
-I'm currently deepening my knowledge in **backend development, software architecture, and system integration**, while continuously improving my English with the goal of pursuing new international opportunities and experiences.
+I enjoy building practical solutions that automate business processes and solve real-world problems through technology.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Inventory Management System
+### 🤖 API Automation & Integration
 
-Web system designed to manage **products, customers, suppliers, and sales**, with a dashboard for monitoring business information.
+Building automation solutions that connect different systems through **REST APIs**, reducing repetitive tasks and improving business processes.
 
-**Technologies:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
+**Technologies:** `Python` `JavaScript` `REST API` `JSON`
 
 ---
 
-### 🤖 Web Process Automation
+### ⚙️ Web Process Automation
 
-Development of scripts and automation solutions to reduce repetitive tasks, improve internal processes, and increase productivity.
+Developing scripts and solutions to automate repetitive tasks in web applications, optimize workflows and increase operational productivity.
 
 **Technologies:** `Python` `JavaScript` `Web Automation`
 
 ---
 
-### 🎨 UI/UX Projects
+## 🛠️ Tech Stack
 
-Creation of interfaces and prototypes using **UX/UI Design** principles, focusing on usability, organization, and user experience.
+**Languages:** C#, C, Python, PHP, JavaScript
 
-**Tool:** `Figma`
+**Web:** HTML5, CSS3, MySQL
 
----
-
-## 🛠️ Technologies & Tools
-
-### 👨‍💻 Programming Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
-</p>
-
----
-
-## 🧠 What I Do
-
-* 💻 **Software Development** — Building systems and applications focused on solving real business problems.
-* 🤖 **Automation** — Developing scripts and solutions to automate repetitive tasks.
-* 🌐 **Web Development** — Building and maintaining web applications.
-* 🔗 **System Integration** — Connecting different systems and business processes.
-* 🛠️ **IT Support** — Troubleshooting and maintaining applications and technology processes.
-* 🎨 **UI/UX** — Designing interfaces and prototypes using Figma.
+**Tools:** Git, GitHub, VS Code, Figma
 
 ---
 
 ## 📈 Currently
 
-🔭 **Working with:**
-Web automation, IT support, and system integration.
-
-🌱 **Currently studying:**
-Software architecture, backend development, and programming best practices.
-
-🎓 **Degree:**
-Computer Science — Universidade Vila Velha (UVV).
-
-🌎 **Goal:**
-Continue growing professionally and prepare for international opportunities in technology.
+* 🔭 **Working with:** Web automation and system integration.
+* 🌱 **Studying:** Software Architecture, APIs and Backend Development.
+* 🎯 **Goal:** Build scalable solutions and pursue international opportunities in technology.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelzuquij/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/samuelzuquij/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:samuelzuquij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -271,5 +197,5 @@ Continue growing professionally and prepare for international opportunities in t
 ---
 
 <p align="center">
-  <i>“Transformando problemas em soluções através da tecnologia.”</i>
+  <i>"Transformando processos em soluções inteligentes através da tecnologia."</i>
 </p>
