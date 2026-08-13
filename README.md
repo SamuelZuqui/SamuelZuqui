@@ -1,120 +1,275 @@
-# 👤 Olá, eu sou o Samuel!
+# 👋 Olá, eu sou o Samuel!
 
-**Estudante de Ciência da Computação | Estagiário de TI**
+### 💻 Estudante de Ciência da Computação | 👨‍💻 Estagiário de TI
 
-Sou um desenvolvedor focado em construir soluções práticas que resolvem problemas reais de negócios. Atualmente, curso Ciência da Computação na Universidade Vila Velha (UVV) e atuo profissionalmente com automação e suporte, unindo a base teórica acadêmica com a velocidade do mercado de trabalho.
+Sou estudante de **Ciência da Computação na Universidade Vila Velha (UVV)** e atuo profissionalmente na área de **Tecnologia da Informação**, com foco em **automação web, suporte e integração de sistemas**.
 
-Além do código, invisto fortemente no aprendizado do idioma inglês, com o objetivo de expandir minhas fronteiras para futuras experiências internacionais.
+Gosto de transformar problemas do dia a dia em **soluções práticas, automatizadas e eficientes**, unindo conhecimento acadêmico com experiência profissional.
+
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento backend, arquitetura de software e integração de sistemas**, enquanto continuo evoluindo meu inglês com o objetivo de buscar novas oportunidades e experiências internacionais.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-*   
-* 
-* 
+### 📦 Sistema de Gestão de Estoque
+
+Sistema web desenvolvido para facilitar o controle de **produtos, clientes, fornecedores e vendas**, com dashboard para acompanhamento das informações do negócio.
+
+**Tecnologias:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
 ---
 
-## 🛠️ O que eu faço na prática?
+### 🤖 Automação de Processos Web
 
-*   **Desenvolvimento de Software:** Criação de sistemas e aplicações focados em otimizar rotinas operacionais, automatizar processos e facilitar a gestão de negócios.
-*   **Automação e Manutenção Web:** Experiência prática prestando suporte a aplicações web, desenvolvendo scripts para automação de tarefas rotineiras e atuando na melhoria contínua de processos internos.
+Desenvolvimento de scripts e automações para reduzir tarefas repetitivas, melhorar processos internos e aumentar a produtividade.
 
-## 💻 Minha Stack Principal
+**Tecnologias:** `Python` `JavaScript` `Web Automation`
 
-Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
+---
 
-### Backend & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### 🎨 Projetos de UI/UX
+
+Criação de interfaces e protótipos de sistemas utilizando princípios de **UX/UI Design**, buscando melhorar a experiência do usuário e a organização das informações.
+
+**Ferramenta:** `Figma`
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 👨‍💻 Linguagens de Programação
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
 </p>
 
-### Frontend Web
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 🌐 Desenvolvimento Web
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
 </p>
 
-## 📈 Status Atual & Estatísticas
-- 🔭 Atualmente trabalhando com: **Automação web e integração de sistemas.**
-- 🌱 Aprofundando estudos em: **Arquitetura de software e desenvolvimento backend.**
+### 🔧 Ferramentas
 
-## 📫 Conecte-se comigo
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelzuquij/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelzuquij/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelzuquij@gmail.com)
+---
 
-<hr>
+## 🧠 O que eu faço na prática?
+
+* 💻 **Desenvolvimento de Software** — Criação de sistemas e aplicações voltados para resolver problemas reais de negócios.
+* 🤖 **Automação** — Desenvolvimento de scripts e soluções para automatizar tarefas repetitivas.
+* 🌐 **Desenvolvimento Web** — Criação e manutenção de aplicações web.
+* 🔗 **Integração de Sistemas** — Desenvolvimento de soluções para conectar diferentes sistemas e processos.
+* 🛠️ **Suporte de TI** — Análise, manutenção e resolução de problemas relacionados a aplicações e processos tecnológicos.
+* 🎨 **UI/UX** — Criação de interfaces e protótipos utilizando Figma.
+
+---
+
+## 📈 Atualmente
+
+🔭 **Trabalhando com:**
+Automação web, suporte e integração de sistemas.
+
+🌱 **Estudando:**
+Arquitetura de software, desenvolvimento backend e boas práticas de programação.
+
+🎓 **Graduação:**
+Ciência da Computação — Universidade Vila Velha (UVV).
+
+🌎 **Objetivo:**
+Continuar evoluindo profissionalmente e me preparar para oportunidades internacionais na área de tecnologia.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelzuquij&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzuquij&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuelzuquij/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/samuelzuquij/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:samuelzuquij@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <a name="english-version"></a>
+
 <details>
 <summary>🇺🇸 <b>Click here to view the English version</b></summary>
 
 <br>
 
-# 👤 Hello, I'm Samuel!
+# 👋 Hello, I'm Samuel!
 
-**Computer Science Student | IT Intern**
+### 💻 Computer Science Student | 👨‍💻 IT Intern
 
-I am a developer focused on building practical solutions to solve real business problems. Currently, I'm pursuing a degree in Computer Science at Universidade Vila Velha (UVV) while working professionally with web automation and support, bridging the gap between academic theory and the fast-paced job market.
+I'm a **Computer Science student at Universidade Vila Velha (UVV)** currently working in **Information Technology**, focusing on **web automation, technical support, and system integration**.
 
-Beyond coding, I'm strongly invested in learning English, aiming to expand my horizons for future international experiences.
+I enjoy transforming everyday problems into **practical, automated, and efficient solutions**, combining academic knowledge with real-world professional experience.
+
+I'm currently deepening my knowledge in **backend development, software architecture, and system integration**, while continuously improving my English with the goal of pursuing new international opportunities and experiences.
 
 ---
 
 ## 🚀 Featured Projects
 
-*
-*
-*
+### 📦 Inventory Management System
+
+Web system designed to manage **products, customers, suppliers, and sales**, with a dashboard for monitoring business information.
+
+**Technologies:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
 ---
 
-## 🛠️ What do I do in practice?
+### 🤖 Web Process Automation
 
-*   **Software Development:** Creating systems and applications focused on optimizing operational routines, automating processes, and facilitating business management.
-*   **Web Automation & Maintenance:** Practical experience providing support for web applications, developing scripts to automate routine tasks, and continuously improving internal processes.
+Development of scripts and automation solutions to reduce repetitive tasks, improve internal processes, and increase productivity.
 
-## 💻 My Main Stack
+**Technologies:** `Python` `JavaScript` `Web Automation`
 
-Here are the technologies I work with and study daily:
+---
 
-### Backend & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### 🎨 UI/UX Projects
+
+Creation of interfaces and prototypes using **UX/UI Design** principles, focusing on usability, organization, and user experience.
+
+**Tool:** `Figma`
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" alt="C" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
 </p>
 
-### Frontend Web
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
 </p>
 
-## 📈 Current Status
-- 🔭 Currently working on: **Web automation and system integrations.**
-- 🌱 Deepening studies in: **Software architecture and backend development.**
+### 🔧 Tools
 
-## 📫 Connect with me
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelzuquij/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelzuquij/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelzuquij@gmail.com)
+---
+
+## 🧠 What I Do
+
+* 💻 **Software Development** — Building systems and applications focused on solving real business problems.
+* 🤖 **Automation** — Developing scripts and solutions to automate repetitive tasks.
+* 🌐 **Web Development** — Building and maintaining web applications.
+* 🔗 **System Integration** — Connecting different systems and business processes.
+* 🛠️ **IT Support** — Troubleshooting and maintaining applications and technology processes.
+* 🎨 **UI/UX** — Designing interfaces and prototypes using Figma.
+
+---
+
+## 📈 Currently
+
+🔭 **Working with:**
+Web automation, IT support, and system integration.
+
+🌱 **Currently studying:**
+Software architecture, backend development, and programming best practices.
+
+🎓 **Degree:**
+Computer Science — Universidade Vila Velha (UVV).
+
+🌎 **Goal:**
+Continue growing professionally and prepare for international opportunities in technology.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuelzuquij/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/samuelzuquij/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:samuelzuquij@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </details>
+
+---
+
+<p align="center">
+  <i>“Transformando problemas em soluções através da tecnologia.”</i>
+</p>
