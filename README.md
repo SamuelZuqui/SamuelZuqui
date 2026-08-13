@@ -96,15 +96,15 @@ Criação de scripts e soluções para automatizar rotinas em aplicações web, 
 
 <p align="left">
   <a href="mailto:samuelzuquij@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335?viewbox=auto" width="50" height="50" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" width="50" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F?viewbox=auto" width="50" height="50" alt="Instagram"/>
   </a>
 </p>
 
@@ -211,15 +211,15 @@ Developing scripts and solutions to automate web routines, reduce manual tasks, 
 
 <p align="left">
   <a href="mailto:samuelzuquij@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335?viewbox=auto" width="50" height="50" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samuelzuquij/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" width="50" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/samuelzuquij/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F?viewbox=auto" width="50" height="50" alt="Instagram"/>
   </a>
 </p>
 
